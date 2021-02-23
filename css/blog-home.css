@@ -6,3 +6,53 @@
 body {
   padding-top: 56px;
 }
+
+/* FOOTER */
+.footer {
+  background-color:rgba(0, 0, 0, 0.9)
+}
+#footer1 {
+  width: 1192px; 
+  height: 32px; 
+  display: flex; 
+  justify-content: space-between;
+}
+.footer2 {
+  width: 141.68px; 
+  height: 21.62px;
+}
+.footer3 {
+  width: 200px; 
+  height: 24px; 
+  display: flex;
+}
+.ft {
+  color: #fff;
+}
+.ft:hover {
+  color: #fff;
+}
+.ftp{
+  padding: 0 25px; margin-top: 5px;
+}
+.cj {
+  fill: rgba(251, 255, 255, 1); 
+}
+
+/*NAV*/
+.nav {
+  width: 1192px; 
+  height: 70px; 
+  margin: 0 40px; 
+  padding: 10px 0;
+}
+.nav-link {
+  color: rgb(117, 117, 117);
+}
+.nav-link:hover {
+  color:rgba(0, 0, 0, 0.9);
+}
+.eo {
+  color: rgb(117, 117, 117); 
+  margin-top: 7px;
+}
