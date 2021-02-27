@@ -48,7 +48,8 @@ body {
   width: 1192px; 
   height: 70px; 
   margin: 0 40px; 
-  padding: 10px 0;
+  padding: 50px 0;
+  
 }
 .nav-link {
   color: rgb(117, 117, 117);
@@ -59,4 +60,9 @@ body {
 .eo {
   color: rgb(117, 117, 117); 
   margin-top: 7px;
+}
+
+
+hr {
+  width:100%;
 }
