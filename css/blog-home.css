@@ -44,13 +44,6 @@ body {
 }
 
 /*NAV*/
-.nav {
-  width: 1192px; 
-  height: 70px; 
-  margin: 0 40px; 
-  padding: 50px 0;
-  
-}
 .nav-link {
   color: rgb(117, 117, 117);
 }
@@ -62,7 +55,9 @@ body {
   margin-top: 7px;
 }
 
-
 hr {
   width:100%;
 }
+
+
+
