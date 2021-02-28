@@ -71,5 +71,19 @@ hr {
 
 .mov {
   color:rgba(251, 255, 255, 1);
+  font-size: 14px;
+}
+.get {
+  border-style: solid; 
+  border-radius: 30%;
+  padding: 7px 16px 9px;
+  border-width: 1px;
 }
 
+.sign {
+  margin-right: 4%;
+}
+
+.dh {
+  width: 10%;
+}
